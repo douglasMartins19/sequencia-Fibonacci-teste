@@ -1,18 +1,11 @@
-## Getting Started
+## Descrição do repositório
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório tem como finalidade analisar um número inserido no programa pelo usuário e checar se ele pertence ou não à sequência.
 
-## Folder Structure
+## Sequência Fibonacci
 
-The workspace contains two folders by default, where:
+A sequência de Fibonacci é uma série numérica onde cada número é a soma dos dois anteriores. Ela começa com 0 e 1, e a sequência continua assim:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34...
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Ela aparece em diversos fenômenos na natureza e tem aplicações em matemática, ciência da computação, arte e arquitetura.

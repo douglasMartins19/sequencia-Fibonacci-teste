@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FibonacciChecker extends MetodoFibonacci{
+public class FibonacciChecador extends MetodoFibonacci{
     public static void main(String[] args) {
 
         // Entrada do número pelo usuário
